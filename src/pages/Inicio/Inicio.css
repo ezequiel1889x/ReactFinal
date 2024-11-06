@@ -1,0 +1,12 @@
+.main {
+    background-image: url(../../assets/images/main.webp);
+}
+
+.card-body{
+    background-color: #ff7300;
+}
+
+.mundos{
+    padding-left: 20%;
+    padding-right: 20%;
+}
